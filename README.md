@@ -1,7 +1,22 @@
-### Olá pessoal, segue um pouco sobre meu trabalho 👋
+# Olá pessoal, segue um pouco sobre meu trabalho 👋
 
-### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/></p>
+<img  align="right" alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/>
+
+### Meus momentos
+ - 🔭 Ensinando na Trybe
+ - 🌱 Estudando React
+ - 💬 Adoro falar sobre metodologias ágeis
+ - 📫 [Linkedin](https://www.linkedin.com/in/williamarcondes)
+ - 📫 [Medium](https://william-marcondes.medium.com)
+
+
+### 📚 Meus projetos favoritos
+- [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)[Meu projeto base para gerar um projeto Rails]
+- [Rails Blog](https://github.com/williamarcondes/rails-blog-tutorial)[Teste do Framework Rails - Projeto Blog]
+- [Python rabbit](https://github.com/williamarcondes/python-rabbit)[Teste com a ferramenta Rabbit-MQ]
+- [Spike Raspagem de Dados](https://github.com/williamarcondes/spike-extrator-licitacao) [Teste da ferramenta Selenium para respagem de dados]
+- [Tutorial Bewcrownd](https://github.com/williamarcondes/tutorial-beecrowd) [Contém a solução dos exercícios tutoriais de nivel iniciante da plataforma BeeCrowd]
+
 
 ### 📚 Posts Populares
 - [Gerar Documentos PDF no BACKEND](https://william-marcondes.medium.com/gerar-documentos-pdf-no-backend-84db7675ba91)
@@ -13,18 +28,3 @@
 - [Testes de Software](https://share.atelie.software/testes-de-software-minuto-%C3%A1gil-03-803a6bde1914)
 - [Kanban](https://share.atelie.software/kanban-minuto-%C3%A1gil-0-1-54b480e8b1f8)
 - [Lidando com códigos legados](https://guildadocodigo.atelie.software/lidando-com-c%C3%B3digos-legados-ab426b36fa6e)
-
-<!--
-**williamarcondes/williamarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
