@@ -1,6 +1,6 @@
 # Olá pessoal, segue um pouco sobre meu trabalho 👋
 
-<img  align="right" width='450px' height='300px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/>
+<img align="right" width='450px' height='300px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com?user=williamarcondes&theme=gotham&hide_border=true&locale=pt-br"/>
 
 ### Além do Github
  - 🗃️ Atuei em vários projetos Web
