@@ -11,11 +11,11 @@
 
 
 ### 📚 Meus projetos favoritos
-- [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)[Meu projeto base para gerar um projeto Rails]
-- [Rails Blog](https://github.com/williamarcondes/rails-blog-tutorial)[Teste do Framework Rails - Projeto Blog]
-- [Python rabbit](https://github.com/williamarcondes/python-rabbit)[Teste com a ferramenta Rabbit-MQ]
-- [Spike Raspagem de Dados](https://github.com/williamarcondes/spike-extrator-licitacao) [Teste da ferramenta Selenium para respagem de dados]
-- [Tutorial Bewcrownd](https://github.com/williamarcondes/tutorial-beecrowd) [Contém a solução dos exercícios tutoriais de nivel iniciante da plataforma BeeCrowd]
+- [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo) - Meu projeto base para gerar um projeto Rails
+- [Rails Blog](https://github.com/williamarcondes/rails-blog-tutorial) - Teste do Framework Rails - Projeto Blog
+- [Python rabbit](https://github.com/williamarcondes/python-rabbit) - Teste com a ferramenta Rabbit-MQ
+- [Spike Raspagem de Dados](https://github.com/williamarcondes/spike-extrator-licitacao) - Teste da ferramenta Selenium para respagem de dados
+- [Tutorial Bewcrownd](https://github.com/williamarcondes/tutorial-beecrowd) - Contém a solução dos exercícios tutoriais de nivel iniciante da plataforma BeeCrowd
 
 
 ### 📚 Posts Populares
