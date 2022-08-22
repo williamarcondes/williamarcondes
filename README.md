@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá pessoal, segue um pouco sobre meu trabalho 👋
 
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand&theme=dracula"/></p>
