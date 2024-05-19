@@ -6,12 +6,12 @@
 
 ### Além do Github
  - 🗃️ Atuei em vários projetos Web
- - 💼 Trabalho como Instrutor de Desenvolvimento Web
+ - 💼 Trabalho como Professor de Desenvolvimento Web na Digita Código
  - 🌱 Estudando React
  - 💬 Adoro falar sobre metodologias ágeis
+ - 📽️ [Youtube](https://www.youtube.com/@DigitaCodigo)
  - 📫 [Linkedin](https://www.linkedin.com/in/williamarcondes)
  - 📝 [Medium](https://william-marcondes.medium.com)
- - 📽️ [Youtube](https://www.youtube.com/channel/UCbAFHW-f3-lP4H4Fq__jOdw)
 
 ### 📚 Meus projetos favoritos
 - [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)
