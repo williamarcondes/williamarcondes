@@ -1,5 +1,8 @@
 # Olá pessoal, segue um pouco sobre meu trabalho 👋
 
+### ME SIGA: 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DigitaCodigo)
+
 <img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com?user=williamarcondes&theme=gotham&hide_border=true&locale=pt-br"/>
 <img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamarcondes&layout=compact"/>
 <img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/?username=williamarcondes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
