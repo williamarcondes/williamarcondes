@@ -9,7 +9,8 @@
 
 ### Além do Github
  - 🗃️ Atuei em vários projetos Web
- - 💼 Trabalho como Professor de Desenvolvimento Web na Digita Código
+ - 💼 Trabalho como Programador e Professo
+ - 🧙‍♂️ Empreendedor na Digita Código
  - 🌱 Estudando React
  - 💬 Adoro falar sobre metodologias ágeis
  - 📽️ [Youtube](https://www.youtube.com/@DigitaCodigo)
@@ -17,6 +18,10 @@
  - 📝 [Medium](https://william-marcondes.medium.com)
 
 ### 📚 Meus projetos favoritos
+- [Assistente Digita](https://github.com/williamarcondes/assistente_digita)
+  - Aula de como programar uma Alexa em Python
+- [Status Rio Grande do Sul](https://github.com/williamarcondes/raspagem-calamidades)
+  - Aula de como podemos ajudar divulgando informações corretas sobre o RS.
 - [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)
   - Meu projeto base para gerar um projeto Rails
 - [Rails Blog](https://github.com/williamarcondes/rails-blog-tutorial)
