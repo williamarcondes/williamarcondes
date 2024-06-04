@@ -9,12 +9,6 @@
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/1.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/3.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
 
-
-[![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/0.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
-
-Videos novos toda semana!
-
-
 ### Além do Github
  - 🗃️ Atuei em vários projetos Web
  - 💼 Trabalho como Programador e Professo
@@ -24,6 +18,13 @@ Videos novos toda semana!
  - 📽️ [Youtube](https://www.youtube.com/@DigitaCodigo)
  - 📫 [Linkedin](https://www.linkedin.com/in/williamarcondes)
  - 📝 [Medium](https://william-marcondes.medium.com)
+
+
+[![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/0.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
+
+Videos novos toda semana!
+
+
 
 ### 📚 Meus projetos favoritos
 - [Assistente Digita](https://github.com/williamarcondes/assistente_digita)
