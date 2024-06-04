@@ -6,6 +6,7 @@
 
 ### ME SIGA: 
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/0.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
+
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/1.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
 . . . . . . . . [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DigitaCodigo) . . . . . . . .
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/3.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
