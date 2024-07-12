@@ -33,7 +33,7 @@ Videos novos toda semana!
   - Aula de como podemos ajudar divulgando informações corretas sobre o RS.
 - [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)
   - Meu projeto base para gerar um projeto Rails
-- [Rails Blog](https://github.com/williamarcondes/rails-blog-tutorial)
+- [Flask Docker]([https://github.com/williamarcondes/rails-blog-tutorial](https://github.com/williamarcondes/PythonFlaskDocker))
   - Teste do Framework Rails - Projeto Blog
 - [Python rabbit](https://github.com/williamarcondes/python-rabbit)
   - Teste com a ferramenta Rabbit-MQ
