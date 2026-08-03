@@ -1,47 +1,37 @@
 # Olá pessoal, segue um pouco sobre meu trabalho 👋
+Esta minha conta é de uso pessoal
+
+### 📚 Meus projetos favoritos
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fassistente_digita&show_owner=true&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/assistente_digita)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fassistente_digita&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/assistente_digita)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fraspagem-calamidades&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/raspagem-calamidades)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Frails-docker-limpo&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/rails-docker-limpo)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Frails-blog-tutorial&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/rails-blog-tutorial)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2FPythonFlaskDocker&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/PythonFlaskDocker)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fpython-rabbit&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/python-rabbit)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fspike-extrator-licitacao&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/spike-extrator-licitacao)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Ftutorial-beecrowd&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/tutorial-beecrowd)
+
 ---
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DigitaCodigo)
+
 <img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-streak-stats.herokuapp.com?user=williamarcondes&theme=gotham&hide_border=true&locale=pt-br"/>
-<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/?username=williamarcondes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
-<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamarcondes&layout=compact"/>
+<img align="right" width='500px' height='260px' alt="Meu Git Status" title="Meu Git Status" src="https://github-stats-extended.vercel.app/api/?username=williamarcondes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+
 
 ### ME SIGA: 
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/1.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
 [![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/3.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@DigitaCodigo)
 
 ### Além do Github
  - 🗃️ Atuei em vários projetos Web
- - 💼 Trabalho como Programador e Professo
+ - 💼 Trabalho como Programador e amo ensinar
  - 🧙‍♂️ Empreendedor na Digita Código
- - 🌱 Estudando React
+ - 🌱 Estudando React, I.A
  - 💬 Adoro falar sobre metodologias ágeis
  - 📽️ [Youtube](https://www.youtube.com/@DigitaCodigo)
  - 📫 [Linkedin](https://www.linkedin.com/in/williamarcondes)
  - 📝 [Medium](https://william-marcondes.medium.com)
-
-
-[![DIGITA CÓDIGO](https://img.youtube.com/vi/wC_bowVIaJE/0.jpg)](https://www.youtube.com/watch?v=wC_bowVIaJE)
-
-Videos novos toda semana!
-
-
-
-### 📚 Meus projetos favoritos
-- [Assistente Digita](https://github.com/williamarcondes/assistente_digita)
-  - Aula de como programar uma Alexa em Python
-- [Status Rio Grande do Sul](https://github.com/williamarcondes/raspagem-calamidades)
-  - Aula de como podemos ajudar divulgando informações corretas sobre o RS.
-- [Rails + Docker](https://github.com/williamarcondes/rails-docker-limpo)
-  - Meu projeto base para gerar um projeto Rails
-- [Flask Docker]([https://github.com/williamarcondes/rails-blog-tutorial](https://github.com/williamarcondes/PythonFlaskDocker))
-  - Teste do Framework Rails - Projeto Blog
-- [Python rabbit](https://github.com/williamarcondes/python-rabbit)
-  - Teste com a ferramenta Rabbit-MQ
-- [Spike Raspagem de Dados](https://github.com/williamarcondes/spike-extrator-licitacao)
-  - Teste da ferramenta Selenium para respagem de dados
-- [Tutorial Bewcrownd](https://github.com/williamarcondes/tutorial-beecrowd)
-  - Contém a solução dos exercícios tutoriais de nivel iniciante da plataforma BeeCrowd
-
 
 ### 📚 Posts Populares
 - [Gerar Documentos PDF no BACKEND](https://william-marcondes.medium.com/gerar-documentos-pdf-no-backend-84db7675ba91)
