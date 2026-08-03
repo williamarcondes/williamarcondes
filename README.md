@@ -1,5 +1,5 @@
 # Olá pessoal, segue um pouco sobre meu trabalho 👋
-Esta minha conta é de uso pessoal
+Este meu perfil no Github é de uso pessoal, para minha trabalho profissional, utilizo de outra conta privada.
 
 ### 📚 Meus projetos favoritos
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=williamarcondes&repo=williamarcondes%2Fassistente_digita&show_owner=true&description_lines_count=1&theme=noctis_minimus)](https://github.com/williamarcondes/assistente_digita)
